@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Introduction to winter camping</title>
+  </head>
+  <body>
+    <h1>Winter Camping for Beginners</h1>
+    <section>
+      <h2>Introduction</h2>
+      <p>
+        With careful planning and preparation, winter camping can be an amazing
+        experience. If you're thinking about going camping in the winter, this
+        page is a great place to start.
+      </p>
+    </section>
+  </body>
+</html>
